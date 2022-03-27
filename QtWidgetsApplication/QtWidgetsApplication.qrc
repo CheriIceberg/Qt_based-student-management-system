@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/QtWidgetsApplication"/>
+    <qresource prefix="/new/pictures">
+        <file>address-book-regular.svg</file>
+        <file>windowbg.jpeg</file>
+        <file>creat.svg</file>
+        <file>delete.svg</file>
+        <file>edit.svg</file>
+        <file>magnifying-glass-solid.svg</file>
+        <file>print.svg</file>
+        <file>quit.svg</file>
+        <file>rank.svg</file>
+        <file>neprint.svg</file>
+        <file>print-solid.svg</file>
+    </qresource>
+</RCC>
